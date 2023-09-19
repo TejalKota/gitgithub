@@ -4,3 +4,4 @@ Carrots
 Dragonfruit
 Mango
 Cucumbers
+Cereals
